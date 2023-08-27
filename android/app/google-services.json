@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284507951589",
+    "firebase_url": "https://sora-b23da-default-rtdb.firebaseio.com",
+    "project_id": "sora-b23da",
+    "storage_bucket": "sora-b23da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284507951589:android:66f28d7de8c2279c3bdf0c",
+        "android_client_info": {
+          "package_name": "com.example.raisyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284507951589-arq4sbqhq87d5pk4ep9crus5pqvmvf8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLIkoTQc1ljn-8OZr980khJzX0xH8g984"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284507951589-arq4sbqhq87d5pk4ep9crus5pqvmvf8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284507951589-f99vt2cad8obu0d5pub3fsfh0o487ho2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.raisyu.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

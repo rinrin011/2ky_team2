@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>284507951589-jtlqkr5hoiafqss7ldkk0uagh2mj797f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.284507951589-jtlqkr5hoiafqss7ldkk0uagh2mj797f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0ta8nLqtV0vxLOH2S7Qc3ZOIzAMltpmM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284507951589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.raisyu</string>
+	<key>PROJECT_ID</key>
+	<string>sora-b23da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sora-b23da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284507951589:ios:8fc5fbb3ee2c415d3bdf0c</string>
+	<key>DATABASE_URL</key>
+	<string>https://sora-b23da-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
